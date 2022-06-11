@@ -1,0 +1,78 @@
+body
+{
+  width: 100%;
+  background-color: plum;
+}
+
+.heading
+{
+    font-size: 28px;
+    font-family: 'Lucida Sans';
+    color: rgb(236, 245, 75);
+}
+#object_1
+{
+    border: 10px white;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(138, 217, 59);
+    color: white;
+}
+#object_2
+{
+    border: 10px white;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(34, 76, 76);
+    color: white;
+
+}
+#object_3
+{
+    border: 10px white;
+    border-radius: 10px;
+    font-size: 24px;
+    text-align: center;
+    background-color:darksalmon ;
+    color: white;
+
+}
+#object_4
+{
+    border: 10px white;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightpink;
+    color: white;
+
+}
+#object_5
+{
+    border: 10px white;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(226, 12, 44);
+    color: white;
+
+}
+#object_6
+{
+    border: 10px white;
+    font-size: 24px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(35, 233, 111);
+    color: white;
+
+}
+
+
+
+
+
+
+
